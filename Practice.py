@@ -116,7 +116,7 @@ elif (choice == 'Employee'):
     <style>[data-testid="stAppViewContainer"]
     {{
     background-image: url("https://c0.wallpaperflare.com/preview/918/958/450/adult-blond-hair-blurred-background-businesspeople.jpg");
-    background-size: 100%;
+    background-size: cover;
     background-position: top left;
     background-repeat: no-repeat;
     background-attachment: local;
