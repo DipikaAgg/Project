@@ -236,7 +236,7 @@ elif (choice == 'Admin'):
         choice3 = st.selectbox("Features", ("Select",
                                             "Master Data", "Transactions", "HRD", "Training and Development", "Report",
                                             "Utility", "Help", "Quit"))
-        if choice3 == "Masters":
+        if choice3 == "Master Data":
             choice4 = st.selectbox("Select",
                                    ("Select", "Check Employee Details", "Add Employee", "Update Employee Detaiils","Remove Employee",
                                     "Loan", "BankLoan",
